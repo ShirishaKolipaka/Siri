@@ -1,9 +1,5 @@
-# ToDo-List-v1
+# Simon-Game
 
-Two route are there:
-one is home route i.e. localhost:3000
-another one is work route i.e. localhost:3000/work
-
-
-Before building the project first do npm install,
-to install all the node module packages from the dependencies of package.json
+Just a learning part, if love to play games...
+Click here.... https://shagunmishra.github.io/Simon-Game/
+Test your memory, till what level you are able to memorize the pattern...
